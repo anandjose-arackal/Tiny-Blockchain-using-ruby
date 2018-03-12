@@ -1,4 +1,4 @@
-# Tiny-Blockchain-using-ruby
+# Tiny Blockchain Implementation using ruby
 Let’s Build the Tiniest Blockchain using ruby
 
 ## Blockchain
